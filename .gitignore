@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+nsrdbv3_dni
+cb_2018_us_state_500k
+.DS_Store
+*.swp
+
 # Distribution / packaging
 .Python
 build/
